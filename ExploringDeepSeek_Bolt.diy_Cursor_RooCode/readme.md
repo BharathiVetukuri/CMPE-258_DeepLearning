@@ -11,8 +11,8 @@
 ### Solution:
 
 # DeepSeek Janus:
-Colab:
-Youtube:
+**Colab - Text to Text Conversation**: https://colab.research.google.com/drive/1aJP8CtV8am6f1cXl9sa2pZgWnH0OmkJF?usp=sharing 
+**Youtube:**
 
 # Bolt.DIY:
 Colab:

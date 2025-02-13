@@ -18,13 +18,19 @@ What sets DeepSeek-R1 apart is its special use of reinforcement learning. To tra
 
 **Colab**: https://colab.research.google.com/drive/1R78IAGXPX0UKjkervqdUsUC0WJ2SSIcr?usp=sharing 
 
+![image](https://github.com/user-attachments/assets/175b25fe-36b6-4989-99fc-000c3d8877de)
+
 ## Generating Interesting Information with Image Input using Janus
 
 **Colab**: https://colab.research.google.com/drive/1jbImpGJ0rgyUtdpbz3UzEDIWnJLIOD7e?usp=sharing 
 
+![image](https://github.com/user-attachments/assets/946b6cc0-7d6f-4a2a-8fdf-3ed3a1402cba)
+
 ## Text to Text Interesting Conversation using R1:
 
 **Colab**: https://colab.research.google.com/drive/1aJP8CtV8am6f1cXl9sa2pZgWnH0OmkJF?usp=sharing 
+
+![image](https://github.com/user-attachments/assets/5f1c6f80-60ae-4b15-9995-8e78288179cb)
 
 **Youtube**:
 

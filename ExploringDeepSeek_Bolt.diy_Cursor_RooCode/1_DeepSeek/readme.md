@@ -34,6 +34,8 @@ What sets DeepSeek-R1 apart is its special use of reinforcement learning. To tra
 
 **Youtube**:
 
- https://youtu.be/eljD9V6jdlE
+ https://youtu.be/eljD9V6jdlE 
+
+ [![DeepSeek](https://img.youtube.com/vi/eljD9V6jdlE/0.jpg)](https://www.youtube.com/watch?v=eljD9V6jdlE)
 
 

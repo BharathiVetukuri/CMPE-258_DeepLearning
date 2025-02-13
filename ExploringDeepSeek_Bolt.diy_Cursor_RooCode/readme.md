@@ -12,8 +12,11 @@
 
 # DeepSeek Janus:
 **Colab - Text to Text Conversation**: https://colab.research.google.com/drive/1aJP8CtV8am6f1cXl9sa2pZgWnH0OmkJF?usp=sharing 
+
 **Colab - Image Creation**: https://colab.research.google.com/drive/1R78IAGXPX0UKjkervqdUsUC0WJ2SSIcr?usp=sharing 
+
 **Colab - Image Information**: https://colab.research.google.com/drive/1jbImpGJ0rgyUtdpbz3UzEDIWnJLIOD7e?usp=sharing 
+
 **Youtube:**
 
 # Bolt.DIY:

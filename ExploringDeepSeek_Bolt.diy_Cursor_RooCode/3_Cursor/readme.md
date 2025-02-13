@@ -14,3 +14,17 @@ Cursor AI enhances developer productivity with a range of intelligent features:
 - **Smart Rewrites**: Intelligently rewrites existing code to improve efficiency, readability, and maintainability.
 - **Cursor Prediction**: Anticipates developer actions and suggests next steps, optimizing workflow and reducing keystrokes.
 
+## Generate Neural Network Code for MNIST Classifier using Keras
+
+**Colab**: https://colab.research.google.com/drive/1w_6l93XKESKZAjWyBdsPyHbM5iZrVG6A?usp=sharing 
+
+![image](https://github.com/user-attachments/assets/0cb834b9-f00d-46fc-b207-6f82c353e828)
+
+**Youtube**: https://youtu.be/JXEBr1SvL2E  
+
+[![Cursor](https://img.youtube.com/vi/JXEBr1SvL2E/0.jpg)](https://www.youtube.com/watch?v=JXEBr1SvL2E)
+
+
+
+
+

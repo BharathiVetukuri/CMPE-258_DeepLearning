@@ -17,7 +17,7 @@
 
 **Colab - Image Information**: https://colab.research.google.com/drive/1jbImpGJ0rgyUtdpbz3UzEDIWnJLIOD7e?usp=sharing 
 
-**Youtube:**
+**Youtube**: https://youtu.be/eljD9V6jdlE 
 
 # Bolt.DIY:
 Colab:

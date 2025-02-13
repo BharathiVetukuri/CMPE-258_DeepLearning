@@ -1,4 +1,4 @@
-# Assignment:
+### Assignment:
 
 1. Use **deepseek Janus** to create very interesting images with prompt. Also provide interesting image as input and generate interesting information. Also use deepseek r1 for text to text interesting conversation.Provide the colab with outputs in github
 
@@ -8,7 +8,7 @@
 
 4. Use **roo code and aider** to create A simple full stack app locally.
 
-# Solution:
+### Solution:
 
 # DeepSeek Janus:
 Colab:

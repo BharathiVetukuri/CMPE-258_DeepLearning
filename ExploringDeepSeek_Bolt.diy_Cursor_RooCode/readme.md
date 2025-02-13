@@ -21,16 +21,20 @@
 
 # Bolt.DIY:
 **Code**: https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/tree/main/ExploringDeepSeek_Bolt.diy_Cursor_RooCode/2_Bolt.diy 
+
 **Youtube**: https://youtu.be/eljD9V6jdlE  
 
 # Cursor:
 **Colab**: https://colab.research.google.com/drive/1w_6l93XKESKZAjWyBdsPyHbM5iZrVG6A?usp=sharing 
+
 **Youtube**: https://youtu.be/JXEBr1SvL2E 
 
 # Roo Code:
 **Code**: https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/tree/main/ExploringDeepSeek_Bolt.diy_Cursor_RooCode/4_RooCode_Aider 
+
 **Youtube**: https://youtu.be/SVx1HODu6lA 
 
 # Aider:
 **Code**: https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/tree/main/ExploringDeepSeek_Bolt.diy_Cursor_RooCode/4_RooCode_Aider 
+
 **Youtube**: https://youtu.be/aHDMNPnqiuA 

@@ -25,7 +25,7 @@ Youtube:
 
 # Cursor:
 Colab:
-Youtube:
+Youtube: https://youtu.be/JXEBr1SvL2E 
 
 # Roo Code:
 Colab:

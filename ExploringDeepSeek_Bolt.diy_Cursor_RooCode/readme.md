@@ -10,7 +10,7 @@
 
 ### Solution:
 
-🌟 # DeepSeek Janus:
+# DeepSeek Janus:
 **Colab - Text to Text Conversation**: https://colab.research.google.com/drive/1aJP8CtV8am6f1cXl9sa2pZgWnH0OmkJF?usp=sharing 
 
 **Colab - Image Creation**: https://colab.research.google.com/drive/1R78IAGXPX0UKjkervqdUsUC0WJ2SSIcr?usp=sharing 
@@ -19,22 +19,22 @@
 
 **Youtube**: https://youtu.be/eljD9V6jdlE 
 
-🌟 # Bolt.DIY:
+# Bolt.DIY:
 **Code**: https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/tree/main/ExploringDeepSeek_Bolt.diy_Cursor_RooCode/2_Bolt.diy 
 
 **Youtube**: https://youtu.be/SMMxkeKRVMw
 
-🌟 # Cursor:
+# Cursor:
 **Colab**: https://colab.research.google.com/drive/1w_6l93XKESKZAjWyBdsPyHbM5iZrVG6A?usp=sharing 
 
 **Youtube**: https://youtu.be/JXEBr1SvL2E 
 
-🌟 # Roo Code:
+# Roo Code:
 **Code**: https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/tree/main/ExploringDeepSeek_Bolt.diy_Cursor_RooCode/4_RooCode_Aider 
 
 **Youtube**: https://youtu.be/SVx1HODu6lA 
 
-🌟 # Aider:
+# Aider:
 **Code**: https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/tree/main/ExploringDeepSeek_Bolt.diy_Cursor_RooCode/4_RooCode_Aider 
 
 **Youtube**: https://youtu.be/aHDMNPnqiuA 

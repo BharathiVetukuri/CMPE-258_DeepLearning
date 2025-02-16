@@ -22,7 +22,7 @@
 # Bolt.DIY:
 **Code**: https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/tree/main/ExploringDeepSeek_Bolt.diy_Cursor_RooCode/2_Bolt.diy 
 
-**Youtube**: https://youtu.be/eljD9V6jdlE  
+**Youtube**: https://youtu.be/SMMxkeKRVMw
 
 # Cursor:
 **Colab**: https://colab.research.google.com/drive/1w_6l93XKESKZAjWyBdsPyHbM5iZrVG6A?usp=sharing 

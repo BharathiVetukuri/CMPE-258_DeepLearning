@@ -1,17 +1,14 @@
 # Complete end2end Modeling with Deep Learning
 
+## Assignment:
 As demonstrated in the class, do three deep learning models in three colabs
 * a) classification
 * b) regression
 * c) image classification
 
-using deep learning - pick any problem for above but be thorough on artifacts
+Using deep learning - pick any problem for above but be thorough on artifacts. Provide the summary and dl model diagrams as like in the colab i showed
 
-Provide the summary and dl model diagrams as like in the colab i showed
-
-Provide integration with weights and biases (preferred) or tensorflow tensorboard
-
-Provide all the artifacts and metrics as shown in the class for each of above
+Provide integration with weights and biases (preferred) or tensorflow tensorboard. Provide all the artifacts and metrics as shown in the class for each of above
 
 * a) accuracy, precision, recall, f1 per class and overall
 

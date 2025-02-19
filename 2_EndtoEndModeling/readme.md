@@ -25,3 +25,21 @@ make sure all the artifacts are uploaded with outputs
 Hint: ive provided a number of colabs for the same in slide deck
 
 ## Solution:
+
+# 1. Classification
+
+Colab:
+
+Youtube:
+
+# 2. Regression
+
+Colab:
+
+Youtube:
+
+# 3. Image Classification
+
+Colab:
+
+Youtube:

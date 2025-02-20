@@ -15,7 +15,10 @@ As a part of this assignment, demonstrated three deep learning models in three s
   - **c) Image Classification Metrics:** Example images per class, per class error analysis, and all metrics
 
 ### 🎥 Youtube Video:
-Upload a short video doing a code walkthrough of the above three problems with detailed explanations of the metrics and error analysis, etc. Make sure to include all artifacts and outputs in the video.
+
+https://youtu.be/VfKJ4rF0_08
+
+ [![Modeling](https://img.youtube.com/vi/VfKJ4rF0_08/0.jpg)](https://www.youtube.com/watch?v=VfKJ4rF0_08)
 
 ## 🚀 Solution:
 

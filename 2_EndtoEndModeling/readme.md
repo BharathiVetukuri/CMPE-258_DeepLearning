@@ -8,9 +8,9 @@ As a part of this assignment, demonstrated three deep learning models in three s
 
 ### 🎥 Youtube Video:
 
-https://youtu.be/VfKJ4rF0_08
+https://youtu.be/VfKJ4rF0_08 
 
- [![Modeling](https://img.youtube.com/vi/VfKJ4rF0_08/0.jpg)](https://www.youtube.com/watch?v=VfKJ4rF0_08) 
+[![Modeling](https://img.youtube.com/vi/VfKJ4rF0_08/0.jpg)](https://www.youtube.com/watch?v=VfKJ4rF0_08) 
 
  
 ### 📊 Integration and Artifacts:

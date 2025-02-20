@@ -81,6 +81,20 @@ PyTorch provides **dynamic computation graphs** and efficient tensor operations,
 ---
 
 ### 🚀 **3. Einsum Operations**
-📂 **Colab Notebook**: 
+📂 **Colab Notebook**: https://colab.research.google.com/drive/1saWvnT_SmBMyTw91Ue019AdHeDpM1qld?usp=sharing 
 
 🎥 Youtube Video:
+
+## 📌 Features Covered
+- ✅ **Transpose** – Swaps rows & columns using `"ij->ji"`.
+- ✅ **Sum of elements** – Collapses all dimensions using `"ij->"`.
+- ✅ **Column Sum** – Sums across rows using `"ij->j"`.
+- ✅ **Row Sum** – Sums across columns using `"ij->i"`.
+- ✅ **Matrix-Vector Multiplication** – `"ij,j->i"`.
+- ✅ **Matrix-Matrix Multiplication** – Standard matrix multiplication `"ik,kj->ij"`.
+- ✅ **Dot Product (First row)** – Row-wise dot product `"i,i->"`.
+- ✅ **Dot Product with Matrix** – Matrix-wise dot product `"ij,ij->"`.
+- ✅ **Hadamard Product** – Element-wise multiplication `"ij,ij->ij"`.
+- ✅ **Outer Product** – Computes the outer product `"i,j->ij"`.
+- ✅ **Matrix Diagonal** – Extracts diagonal elements `"ii->i"`.
+- ✅ **Matrix Trace** – Sum of diagonal elements `"ii->"`.

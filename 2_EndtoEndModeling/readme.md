@@ -14,11 +14,8 @@ Provide summaries and deep learning model diagrams as shown in the exemplar Cola
   - **b) Regression Metrics:** ROC and PR curves
   - **c) Image Classification Metrics:** Example images per class, per class error analysis, and all metrics
 
-### 🎥 Video Submission:
+### 🎥 Youtube Video:
 Upload a short video doing a code walkthrough of the above three problems with detailed explanations of the metrics and error analysis, etc. Make sure to include all artifacts and outputs in the video.
-
-#### Hint:
-I've provided a number of Colabs for the same in the slide deck.
 
 ## 🚀 Solution:
 

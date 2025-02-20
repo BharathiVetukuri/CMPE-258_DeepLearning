@@ -5,6 +5,7 @@ This repository explores **basic tensor operations** in both **TensorFlow 2.0** 
 ### 📝 Task
 
 a) Write a colab exploring various basic tensor operations including demonstrating einsum operations in tensorflow 2.0
+
 b) Write a colab exploring various basic tensor operations in pytorch
 
 ### 📘 Solution

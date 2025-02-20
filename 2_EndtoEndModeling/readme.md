@@ -23,6 +23,9 @@ Upload a short video doing a code walkthrough of the above three problems with d
 **Colab:** [Classification Notebook](link-to-colab-classification)
 **YouTube:** [Video Walkthrough - Classification](link-to-youtube-classification)
 
+![image](https://github.com/user-attachments/assets/0c89271a-08a5-410b-af0a-55c7d3208589)
+
+
 ### 2. Regression
 **Colab:** [Regression Notebook](https://colab.research.google.com/drive/1cdmizVufAfSoCFLxdGM7leMyBbJi4aP1?usp=sharing)
 **YouTube:** [Video Walkthrough - Regression](link-to-youtube-regression)

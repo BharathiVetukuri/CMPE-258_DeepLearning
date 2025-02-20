@@ -40,3 +40,15 @@ https://youtu.be/VfKJ4rF0_08
 
 ![image](https://github.com/user-attachments/assets/02d11737-71e3-4274-b783-a0c7ff8bf272)
 
+# 📌 Summary of Metrics & Artifacts
+
+Here’s the updated table reflecting the improvements in the regression model using the **California Housing Prices dataset**:
+
+| **Model**                      | **Accuracy, Precision, Recall, F1** | **ROC & PR Curves** | **Per-Class Examples** | **Error Analysis** |
+|---------------------------------|-------------------------------------|---------------------|-----------------------|---------------------|
+| **IMDB Sentiment (LSTM)**       | ✅ `classification_report()`        | ✅ `roc_curve()`    | ✅ Printed text examples | ✅ Confusion Matrix & error distribution |
+| **California Housing (Regression)** | ✅ `mse`, `rmse`, `mae`, `r2_score` | ✅ Converted regression into classification for ROC/PR curves | ✅ Displayed per-sample predictions | ✅ Residual analysis, scatter plots, confusion matrix for binned price categories |
+| **Fashion MNIST (CNN)**         | ✅ `classification_report()`        | ✅ `roc_curve()` for each class | ✅ Misclassified images displayed | ✅ Confusion Matrix & per-class error rate |
+
+
+

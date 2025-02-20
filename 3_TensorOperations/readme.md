@@ -83,7 +83,7 @@ PyTorch provides **dynamic computation graphs** and efficient tensor operations,
 ### 🚀 **3. Einsum Operations**
 📂 **Colab Notebook**: https://colab.research.google.com/drive/1saWvnT_SmBMyTw91Ue019AdHeDpM1qld?usp=sharing 
 
-🎥 Youtube Video:
+🎥 Youtube Video: https://youtu.be/dflRGnTSpWQ 
 
 ## 📌 Features Covered
 - ✅ **Transpose** – Swaps rows & columns using `"ij->ji"`.

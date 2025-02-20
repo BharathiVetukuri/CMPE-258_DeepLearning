@@ -2,10 +2,10 @@
 
 ## 📝 Assignment:
 As a part of this assignment, I completed three deep learning models in three separate Colab notebooks:
-- **a) Classification**
-- **b) Regression**
-- **c) Image Classification**
-Provide summaries and deep learning model diagrams as shown in the exemplar Colab during the class.
+- **a) Classification**: https://colab.research.google.com/drive/1cYfiEYYcaFK45YGedTEWfA5ubM__0iXK?usp=sharing 
+- **b) Regression**: https://colab.research.google.com/drive/1cdmizVufAfSoCFLxdGM7leMyBbJi4aP1?usp=sharing 
+- **c) Image Classification**: https://colab.research.google.com/drive/1ikwkOApL-iHbqduoj0THOtQM_odiC-JD?usp=sharing 
+
 
 ### 📊 Integration and Artifacts:
 - Integrate with Weights & Biases (preferred) or TensorFlow TensorBoard.

@@ -2,22 +2,19 @@
 
 This repository explores **basic tensor operations** in both **TensorFlow 2.0** and **PyTorch**. It also demonstrates the use of **einsum operations**, a powerful notation for performing efficient tensor manipulations.
 
-## 🚀 Task
+### 🚀 Task
 
-### a) Write a colab exploring various basic tensor operations including demonstrating einsum operations in tensorflow 2.0
-### b) Write a colab exploring various basic tensor operations in pytorch
+a) Write a colab exploring various basic tensor operations including demonstrating einsum operations in tensorflow 2.0
+b) Write a colab exploring various basic tensor operations in pytorch
 
----
+### Solution
 
 ## 📌 What are Tensors?  
 Tensors are **multi-dimensional arrays** used in **machine learning** and **deep learning**. They generalize **scalars (0D), vectors (1D), matrices (2D), and higher-dimensional data structures**.
 
----
 
 ## 📌 What are Einsum Operations?  
 Einstein Summation (`einsum`) is a **powerful notation** for expressing tensor operations concisely. It enables **efficient computations** for **matrix multiplication, dot products, transpositions, summation, outer products**, and more.
-
----
 
 ## 📌 Tensor Operations in TensorFlow
 TensorFlow provides **efficient handling of tensors**, allowing operations like:
@@ -26,8 +23,6 @@ TensorFlow provides **efficient handling of tensors**, allowing operations like:
 - ✅ **Math operations** – Addition, Multiplication, Dot Product, Matrix Multiplication.  
 - ✅ **Advanced operations** – Softmax, Argmax, Reduce operations.  
 - ✅ **Einsum operations** – Efficient matrix multiplications, element-wise operations, and batch processing.  
-
----
 
 ## 📌 Tensor Operations in PyTorch
 PyTorch provides **dynamic computation graphs** and efficient tensor operations, including:

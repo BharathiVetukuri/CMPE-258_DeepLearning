@@ -1,7 +1,7 @@
 # Complete End-to-End Modeling with Deep Learning 🧠💻
 
 ## 📝 Assignment:
-As a part of this assignment, I completed three deep learning models in three separate Colab notebooks:
+As a part of this assignment, demonstrated three deep learning models in three separate Colab notebooks:
 - **a) Classification**: https://colab.research.google.com/drive/1cYfiEYYcaFK45YGedTEWfA5ubM__0iXK?usp=sharing 
 - **b) Regression**: https://colab.research.google.com/drive/1cdmizVufAfSoCFLxdGM7leMyBbJi4aP1?usp=sharing 
 - **c) Image Classification**: https://colab.research.google.com/drive/1ikwkOApL-iHbqduoj0THOtQM_odiC-JD?usp=sharing 

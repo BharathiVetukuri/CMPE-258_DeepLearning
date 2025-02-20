@@ -21,26 +21,25 @@ Einstein Summation (`einsum`) is a **powerful notation** for expressing tensor o
 
 ## 📌 Tensor Operations in TensorFlow
 TensorFlow provides **efficient handling of tensors**, allowing operations like:
-✅ **Creating tensors** (Scalars, Vectors, Matrices, and Higher-dimensional tensors).  
-✅ **Basic tensor manipulations** – Indexing, Slicing, Reshaping, and Broadcasting.  
-✅ **Math operations** – Addition, Multiplication, Dot Product, Matrix Multiplication.  
-✅ **Advanced operations** – Softmax, Argmax, Reduce operations.  
-✅ **Einsum operations** – Efficient matrix multiplications, element-wise operations, and batch processing.  
+- ✅ **Creating tensors** (Scalars, Vectors, Matrices, and Higher-dimensional tensors).  
+- ✅ **Basic tensor manipulations** – Indexing, Slicing, Reshaping, and Broadcasting.  
+- ✅ **Math operations** – Addition, Multiplication, Dot Product, Matrix Multiplication.  
+- ✅ **Advanced operations** – Softmax, Argmax, Reduce operations.  
+- ✅ **Einsum operations** – Efficient matrix multiplications, element-wise operations, and batch processing.  
 
 ---
 
 ## 📌 Tensor Operations in PyTorch
 PyTorch provides **dynamic computation graphs** and efficient tensor operations, including:
-✅ **Creating tensors** (Scalars, Vectors, Matrices, Higher-dimensional tensors).  
-✅ **Basic operations** – Addition, Multiplication, Dot Product, Matrix Multiplication.  
-✅ **Indexing and slicing** – Accessing tensor elements efficiently.  
-✅ **Broadcasting** – Enabling operations between tensors of different shapes.  
-✅ **Reshaping and transposing** – Changing tensor shapes dynamically.  
-✅ **Conversion between NumPy & PyTorch tensors**.  
-✅ **Reduction operations** – Max, Argmax, Sum, Mean.  
+- ✅ **Creating tensors** (Scalars, Vectors, Matrices, Higher-dimensional tensors).  
+- ✅ **Basic operations** – Addition, Multiplication, Dot Product, Matrix Multiplication.  
+- ✅ **Indexing and slicing** – Accessing tensor elements efficiently.  
+- ✅ **Broadcasting** – Enabling operations between tensors of different shapes.  
+- ✅ **Reshaping and transposing** – Changing tensor shapes dynamically.  
+- ✅ **Conversion between NumPy & PyTorch tensors**.  
+- ✅ **Reduction operations** – Max, Argmax, Sum, Mean.  
 
 ---
-
 
 ## 📌 Summary of Covered Topics
 | Concept | Key Function |
@@ -75,15 +74,15 @@ PyTorch provides **dynamic computation graphs** and efficient tensor operations,
 📺 **YouTube Video**: _(Add link here)_
 
 ## 📌 Features Covered
-✅ Creating **Scalars, Vectors, Matrices, and Tensors**  
-✅ **Tensor Properties** – Shape, Data Type, Device (CPU/GPU)  
-✅ **Basic Math Operations** – Addition, Multiplication, Matrix Multiplication  
-✅ **Indexing & Slicing** – Single & Multi-Dimensional Indexing  
-✅ **Reshaping & Transposing** – `view()`, `reshape()`, `T`  
-✅ **Broadcasting** – Operations on Different Shapes  
-✅ **Conversion between NumPy & PyTorch Tensors**  
-✅ **Reduction Operations** – `max`, `argmax`, `sum`, `mean`  
-✅ **Element-wise & Matrix Operations**  
+- ✅ Creating **Scalars, Vectors, Matrices, and Tensors**  
+- ✅ **Tensor Properties** – Shape, Data Type, Device (CPU/GPU)  
+- ✅ **Basic Math Operations** – Addition, Multiplication, Matrix Multiplication  
+- ✅ **Indexing & Slicing** – Single & Multi-Dimensional Indexing  
+- ✅ **Reshaping & Transposing** – `view()`, `reshape()`, `T`  
+- ✅ **Broadcasting** – Operations on Different Shapes  
+- ✅ **Conversion between NumPy & PyTorch Tensors**  
+- ✅ **Reduction Operations** – `max`, `argmax`, `sum`, `mean`  
+- ✅ **Element-wise & Matrix Operations**  
 
 ---
 
@@ -92,8 +91,3 @@ PyTorch provides **dynamic computation graphs** and efficient tensor operations,
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo-name/einsum-operations.ipynb)
 
 📺 **YouTube Video**: _(Add link here)_
-
-
-
-
-

@@ -34,13 +34,19 @@ Youtube:
 
 # 2. Regression
 
-Colab:
+Colab: https://colab.research.google.com/drive/1cdmizVufAfSoCFLxdGM7leMyBbJi4aP1?usp=sharing 
 
 Youtube:
 
+![image](https://github.com/user-attachments/assets/08d9934b-1ffc-4c3c-a34a-d4b97a76d0cc)
+
+
+![image](https://github.com/user-attachments/assets/87f7d374-0e63-4ace-9ba6-3810aa3494dc)
+
+
 # 3. Image Classification
 
-Colab:
+Colab: https://colab.research.google.com/drive/1ikwkOApL-iHbqduoj0THOtQM_odiC-JD?usp=sharing 
 
 Youtube:
 

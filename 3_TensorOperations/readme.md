@@ -1,22 +1,22 @@
-# 📌 Tensor Operations
+# 🧠 Tensor Operations Guide
 
 This repository explores **basic tensor operations** in both **TensorFlow 2.0** and **PyTorch**. It also demonstrates the use of **einsum operations**, a powerful notation for performing efficient tensor manipulations.
 
-### 🚀 Task
+### 📝 Task
 
 a) Write a colab exploring various basic tensor operations including demonstrating einsum operations in tensorflow 2.0
 b) Write a colab exploring various basic tensor operations in pytorch
 
-### Solution
+### 📘 Solution
 
-## 📌 What are Tensors?  
+## 🔍 What are Tensors?  
 Tensors are **multi-dimensional arrays** used in **machine learning** and **deep learning**. They generalize **scalars (0D), vectors (1D), matrices (2D), and higher-dimensional data structures**.
 
 
-## 📌 What are Einsum Operations?  
+## 🔍 What are Einsum Operations?  
 Einstein Summation (`einsum`) is a **powerful notation** for expressing tensor operations concisely. It enables **efficient computations** for **matrix multiplication, dot products, transpositions, summation, outer products**, and more.
 
-## 📌 Tensor Operations in TensorFlow
+## 🔍 Tensor Operations in TensorFlow
 TensorFlow provides **efficient handling of tensors**, allowing operations like:
 - ✅ **Creating tensors** (Scalars, Vectors, Matrices, and Higher-dimensional tensors).  
 - ✅ **Basic tensor manipulations** – Indexing, Slicing, Reshaping, and Broadcasting.  
@@ -24,7 +24,7 @@ TensorFlow provides **efficient handling of tensors**, allowing operations like:
 - ✅ **Advanced operations** – Softmax, Argmax, Reduce operations.  
 - ✅ **Einsum operations** – Efficient matrix multiplications, element-wise operations, and batch processing.  
 
-## 📌 Tensor Operations in PyTorch
+## 🔍 Tensor Operations in PyTorch
 PyTorch provides **dynamic computation graphs** and efficient tensor operations, including:
 - ✅ **Creating tensors** (Scalars, Vectors, Matrices, Higher-dimensional tensors).  
 - ✅ **Basic operations** – Addition, Multiplication, Dot Product, Matrix Multiplication.  
@@ -53,20 +53,18 @@ PyTorch provides **dynamic computation graphs** and efficient tensor operations,
 
 ---
 
-## 📌 Artifacts:
+## 📊 Artifacts:
 ### 🚀 **1. PyTorch Basics: Tensor Operations**
-📂 **Notebook**:  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo-name/pytorch-tensor-basics.ipynb)
+📂 **Colab Notebook**:  
 
-📺 **YouTube Video**: _(Add link here)_
+🎥 Youtube Video:
 
 ---
 
 ### 🚀 **2. Tensor Operations in TensorFlow**
-📂 **Notebook**:  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo-name/tensorflow-tensor-basics.ipynb)
+📂 **Colab Notebook**: 
 
-📺 **YouTube Video**: _(Add link here)_
+🎥 Youtube Video:
 
 ## 📌 Features Covered
 - ✅ Creating **Scalars, Vectors, Matrices, and Tensors**  
@@ -82,7 +80,6 @@ PyTorch provides **dynamic computation graphs** and efficient tensor operations,
 ---
 
 ### 🚀 **3. Einsum Operations**
-📂 **Notebook**:  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo-name/einsum-operations.ipynb)
+📂 **Colab Notebook**: 
 
-📺 **YouTube Video**: _(Add link here)_
+🎥 Youtube Video:

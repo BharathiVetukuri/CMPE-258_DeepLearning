@@ -1,6 +1,3 @@
-
-markdown
-Copy
 # Complete End-to-End Modeling with Deep Learning 🧠💻
 
 ## 📝 Assignment:

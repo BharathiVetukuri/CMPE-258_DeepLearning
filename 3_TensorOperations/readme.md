@@ -59,7 +59,7 @@ PyTorch provides **dynamic computation graphs** and efficient tensor operations,
 ---
 
 ### 🚀 **2. PyTorch Basics: Tensor Operations**
-📂 **Colab Notebook**: 
+📂 **Colab Notebook**: https://colab.research.google.com/drive/1RcqjxZw77FBzJo8AjQsmB7o2PG_OyV8i?usp=sharing 
 
 🎥 Youtube Video:
 
@@ -72,7 +72,11 @@ PyTorch provides **dynamic computation graphs** and efficient tensor operations,
 - ✅ **Broadcasting** – Operations on Different Shapes  
 - ✅ **Conversion between NumPy & PyTorch Tensors**  
 - ✅ **Reduction Operations** – `max`, `argmax`, `sum`, `mean`  
-- ✅ **Element-wise & Matrix Operations**  
+- ✅ **Element-wise & Matrix Operations**
+- ✅ **Advanced Indexing and Slicing** – Operations on Different Shapes  
+- ✅ **Visualizations** : Visualize operations like tensor addition and multiplication using matplotlib.
+- ✅ **Tensor Transformations and Manipulations** – Tensor flattening and concatenation using torch.roll and torch.flip.
+- ✅ **Dynamic Computation**  
 
 ---
 

@@ -1,54 +1,47 @@
-# Complete end2end Modeling with Deep Learning
 
-## Assignment:
-As demonstrated in the class, do three deep learning models in three colabs
-* a) classification
-* b) regression
-* c) image classification
+markdown
+Copy
+# Complete End-to-End Modeling with Deep Learning 🧠💻
 
-Using deep learning - pick any problem for above but be thorough on artifacts. Provide the summary and dl model diagrams as like in the colab i showed
+## 📝 Assignment:
+As demonstrated in the class, complete three deep learning models in three separate Colab notebooks:
+- **a) Classification**
+- **b) Regression**
+- **c) Image Classification**
 
-Provide integration with weights and biases (preferred) or tensorflow tensorboard. Provide all the artifacts and metrics as shown in the class for each of above
+Choose any problem for the above models but ensure thorough documentation and creation of all required artifacts. Provide summaries and deep learning model diagrams as shown in the exemplar Colab during the class.
 
-* a) accuracy, precision, recall, f1 per class and overall
+### 📊 Integration and Artifacts:
+- Integrate with Weights & Biases (preferred) or TensorFlow TensorBoard.
+- Provide all the artifacts and metrics as demonstrated in the class for each of the models:
+  - **a) Classification Metrics:** Accuracy, Precision, Recall, F1 Score (per class and overall)
+  - **b) Regression Metrics:** ROC and PR curves
+  - **c) Image Classification Metrics:** Example images per class, per class error analysis, and all metrics
 
-* b) roc and pr curves
+### 🎥 Video Submission:
+Upload a short video doing a code walkthrough of the above three problems with detailed explanations of the metrics and error analysis, etc. Make sure to include all artifacts and outputs in the video.
 
-* c) per class examples
+#### Hint:
+I've provided a number of Colabs for the same in the slide deck.
 
-* d) per class error analysis and all metrics
+## 🚀 Solution:
 
-Upload a short video doing code walkthru of the above three problems with detailed explanations of above metrics and error analysis etc,.
+### 1. Classification
+**Colab:** [Classification Notebook](link-to-colab-classification)
+**YouTube:** [Video Walkthrough - Classification](link-to-youtube-classification)
 
-make sure all the artifacts are uploaded with outputs
-
-Hint: ive provided a number of colabs for the same in slide deck
-
-## Solution:
-
-# 1. Classification
-
-Colab:
-
-Youtube:
-
-# 2. Regression
-
-Colab: https://colab.research.google.com/drive/1cdmizVufAfSoCFLxdGM7leMyBbJi4aP1?usp=sharing 
-
-Youtube:
+### 2. Regression
+**Colab:** [Regression Notebook](https://colab.research.google.com/drive/1cdmizVufAfSoCFLxdGM7leMyBbJi4aP1?usp=sharing)
+**YouTube:** [Video Walkthrough - Regression](link-to-youtube-regression)
 
 ![image](https://github.com/user-attachments/assets/08d9934b-1ffc-4c3c-a34a-d4b97a76d0cc)
 
 
 ![image](https://github.com/user-attachments/assets/87f7d374-0e63-4ace-9ba6-3810aa3494dc)
 
-
-# 3. Image Classification
-
-Colab: https://colab.research.google.com/drive/1ikwkOApL-iHbqduoj0THOtQM_odiC-JD?usp=sharing 
-
-Youtube:
+### 3. Image Classification
+**Colab:** [Image Classification Notebook](link-to-colab-image-classification)
+**YouTube:** [Video Walkthrough - Image Classification](link-to-youtube-image-classification)
 
 ![image](https://github.com/user-attachments/assets/ef87c8db-d1db-4e62-aff4-0000b4a86bb7)
 

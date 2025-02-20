@@ -55,14 +55,27 @@ PyTorch provides **dynamic computation graphs** and efficient tensor operations,
 ---
 
 ## 📊 Artifacts:
-### 🚀 **1. PyTorch Basics: Tensor Operations**
-📂 **Colab Notebook**:  
+### 🚀 **1. Tensor Operations in TensorFlow**
+📂 **Colab Notebook**:  https://colab.research.google.com/drive/1bN3_DkvYlSJpe6kYWxN0YO9YsBX1jkFY?usp=sharing 
 
 🎥 Youtube Video:
 
+## 📌 Features Covered
+
+- ✅ Creating **Scalars, Vectors, Matrices, and Tensors**  
+- ✅ **Tensor Properties**: tensor's shape, data type, and the computing device.
+- ✅ **Basic Tensor Manipulations** :Operations such as indexing, slicing, reshaping, and broadcasting tensors to fit required dimensions.
+- ✅ **Math Operations**: Basic mathematical operations including addition, multiplication, and matrix multiplication using TensorFlow's built-in functions.
+- ✅ **Advanced Tensor Algebra with Einsum**: Use of Einstein summation (einsum) to perform complex tensor algebra.
+- ✅ **Visualizing Tensors**: Visualization of tensor structures and values using matplotlib.
+- ✅ **Ragged and Sparse Tensors**  
+- ✅ **Interactive Tensor Manipulation**: Using IPython widgets for interactive reshaping and manipulation of tensors.
+- ✅ **Tensor Reshaping and Slicing**: Detailed examples of reshaping and slicing tensors.
+- ✅ **Tensor Transformations**: Complex tensor transformations like transpose and roll, providing insights into data manipulation techniques.
+
 ---
 
-### 🚀 **2. Tensor Operations in TensorFlow**
+### 🚀 **2. PyTorch Basics: Tensor Operations**
 📂 **Colab Notebook**: 
 
 🎥 Youtube Video:

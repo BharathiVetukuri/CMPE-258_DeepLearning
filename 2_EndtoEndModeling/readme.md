@@ -6,7 +6,13 @@ As a part of this assignment, demonstrated three deep learning models in three s
 - **b) Regression**: https://colab.research.google.com/drive/1cdmizVufAfSoCFLxdGM7leMyBbJi4aP1?usp=sharing 
 - **c) Image Classification**: https://colab.research.google.com/drive/1ikwkOApL-iHbqduoj0THOtQM_odiC-JD?usp=sharing 
 
+### 🎥 Youtube Video:
 
+https://youtu.be/VfKJ4rF0_08
+
+ [![Modeling](https://img.youtube.com/vi/VfKJ4rF0_08/0.jpg)](https://www.youtube.com/watch?v=VfKJ4rF0_08) 
+
+ 
 ### 📊 Integration and Artifacts:
 - Integrate with Weights & Biases (preferred) or TensorFlow TensorBoard.
 - Provide all the artifacts and metrics as demonstrated in the class for each of the models:
@@ -14,24 +20,13 @@ As a part of this assignment, demonstrated three deep learning models in three s
   - **b) Regression Metrics:** ROC and PR curves
   - **c) Image Classification Metrics:** Example images per class, per class error analysis, and all metrics
 
-### 🎥 Youtube Video:
-
-https://youtu.be/VfKJ4rF0_08
-
- [![Modeling](https://img.youtube.com/vi/VfKJ4rF0_08/0.jpg)](https://www.youtube.com/watch?v=VfKJ4rF0_08)
-
-## 🚀 Solution:
+## 🚀 Integration with TensorFlow TensorBoard:
 
 ### 1. Classification
-**Colab:** [Classification Notebook](link-to-colab-classification)
-**YouTube:** [Video Walkthrough - Classification](link-to-youtube-classification)
 
 ![image](https://github.com/user-attachments/assets/0c89271a-08a5-410b-af0a-55c7d3208589)
 
-
 ### 2. Regression
-**Colab:** [Regression Notebook](https://colab.research.google.com/drive/1cdmizVufAfSoCFLxdGM7leMyBbJi4aP1?usp=sharing)
-**YouTube:** [Video Walkthrough - Regression](link-to-youtube-regression)
 
 ![image](https://github.com/user-attachments/assets/08d9934b-1ffc-4c3c-a34a-d4b97a76d0cc)
 
@@ -39,8 +34,6 @@ https://youtu.be/VfKJ4rF0_08
 ![image](https://github.com/user-attachments/assets/87f7d374-0e63-4ace-9ba6-3810aa3494dc)
 
 ### 3. Image Classification
-**Colab:** [Image Classification Notebook](link-to-colab-image-classification)
-**YouTube:** [Video Walkthrough - Image Classification](link-to-youtube-image-classification)
 
 ![image](https://github.com/user-attachments/assets/ef87c8db-d1db-4e62-aff4-0000b4a86bb7)
 

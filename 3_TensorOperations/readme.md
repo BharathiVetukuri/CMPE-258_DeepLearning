@@ -38,7 +38,7 @@ PyTorch provides **dynamic computation graphs** and efficient tensor operations,
 ---
 
 ## 📊 Artifacts:
-### 🚀 **1. Tensor Operations in TensorFlow**
+### 🚀 **1. Basic Tensor Operations (TensorFlow)**
 📂 **Colab Notebook**:  https://colab.research.google.com/drive/1bN3_DkvYlSJpe6kYWxN0YO9YsBX1jkFY?usp=sharing 
 
 🎥 Youtube Video:

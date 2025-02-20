@@ -65,7 +65,7 @@ PyTorch provides **dynamic computation graphs** and efficient tensor operations,
 - ✅ Creating **Scalars, Vectors, Matrices, and Tensors**  
 - ✅ **Tensor Properties**: tensor's shape, data type, and the computing device.
 - ✅ **Basic Tensor Manipulations** :Operations such as indexing, slicing, reshaping, and broadcasting tensors to fit required dimensions.
-- ✅ **Math Operations**: Basic mathematical operations including addition, multiplication, and matrix multiplication using TensorFlow's built-in functions.
+- ✅ **Math Operations**: Basic mathematical operations including addition, multiplication, and matrix multiplication.
 - ✅ **Advanced Tensor Algebra with Einsum**: Use of Einstein summation (einsum) to perform complex tensor algebra.
 - ✅ **Visualizing Tensors**: Visualization of tensor structures and values using matplotlib.
 - ✅ **Ragged and Sparse Tensors**  

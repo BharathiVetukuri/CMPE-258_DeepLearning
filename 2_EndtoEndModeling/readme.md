@@ -1,12 +1,11 @@
 # Complete End-to-End Modeling with Deep Learning 🧠💻
 
 ## 📝 Assignment:
-As demonstrated in the class, complete three deep learning models in three separate Colab notebooks:
+As a part of this assignment, I completed three deep learning models in three separate Colab notebooks:
 - **a) Classification**
 - **b) Regression**
 - **c) Image Classification**
-
-Choose any problem for the above models but ensure thorough documentation and creation of all required artifacts. Provide summaries and deep learning model diagrams as shown in the exemplar Colab during the class.
+Provide summaries and deep learning model diagrams as shown in the exemplar Colab during the class.
 
 ### 📊 Integration and Artifacts:
 - Integrate with Weights & Biases (preferred) or TensorFlow TensorBoard.

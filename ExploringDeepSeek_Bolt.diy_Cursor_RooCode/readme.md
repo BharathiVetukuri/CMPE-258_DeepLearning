@@ -11,30 +11,30 @@
 ### Solution:
 
 # DeepSeek Janus:
-**Colab - Text to Text Conversation**: https://colab.research.google.com/drive/1aJP8CtV8am6f1cXl9sa2pZgWnH0OmkJF?usp=sharing 
+📄 **Colab - Text to Text Conversation**: https://colab.research.google.com/drive/1aJP8CtV8am6f1cXl9sa2pZgWnH0OmkJF?usp=sharing 
 
-**Colab - Image Creation**: https://colab.research.google.com/drive/1R78IAGXPX0UKjkervqdUsUC0WJ2SSIcr?usp=sharing 
+📄 **Colab - Image Creation**: https://colab.research.google.com/drive/1R78IAGXPX0UKjkervqdUsUC0WJ2SSIcr?usp=sharing 
 
-**Colab - Image Information**: https://colab.research.google.com/drive/1jbImpGJ0rgyUtdpbz3UzEDIWnJLIOD7e?usp=sharing 
+📄 **Colab - Image Information**: https://colab.research.google.com/drive/1jbImpGJ0rgyUtdpbz3UzEDIWnJLIOD7e?usp=sharing 
 
-**Youtube**: https://youtu.be/eljD9V6jdlE 
+🎥 **Youtube**: https://youtu.be/eljD9V6jdlE 
 
 # Bolt.DIY:
-**Code**: https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/tree/main/ExploringDeepSeek_Bolt.diy_Cursor_RooCode/2_Bolt.diy 
+🛠️ **Code**: https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/tree/main/ExploringDeepSeek_Bolt.diy_Cursor_RooCode/2_Bolt.diy 
 
-**Youtube**: https://youtu.be/SMMxkeKRVMw
+🎥 **Youtube**: https://youtu.be/SMMxkeKRVMw
 
 # Cursor:
-**Colab**: https://colab.research.google.com/drive/1w_6l93XKESKZAjWyBdsPyHbM5iZrVG6A?usp=sharing 
+🔢 **Colab**: https://colab.research.google.com/drive/1w_6l93XKESKZAjWyBdsPyHbM5iZrVG6A?usp=sharing 
 
-**Youtube**: https://youtu.be/JXEBr1SvL2E 
+🎥 **Youtube**: https://youtu.be/JXEBr1SvL2E 
 
 # Roo Code:
-**Code**: https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/tree/main/ExploringDeepSeek_Bolt.diy_Cursor_RooCode/4_RooCode_Aider 
+🛠️ **Code**: https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/tree/main/ExploringDeepSeek_Bolt.diy_Cursor_RooCode/4_RooCode_Aider 
 
-**Youtube**: https://youtu.be/SVx1HODu6lA 
+🎥 **Youtube**: https://youtu.be/SVx1HODu6lA 
 
 # Aider:
-**Code**: https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/tree/main/ExploringDeepSeek_Bolt.diy_Cursor_RooCode/4_RooCode_Aider 
+🛠️ **Code**: https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/tree/main/ExploringDeepSeek_Bolt.diy_Cursor_RooCode/4_RooCode_Aider 
 
-**Youtube**: https://youtu.be/aHDMNPnqiuA 
+🎥 **Youtube**: https://youtu.be/aHDMNPnqiuA 

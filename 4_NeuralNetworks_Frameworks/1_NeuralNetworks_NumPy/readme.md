@@ -1,4 +1,4 @@
-# Numpy Implementation (From Scratch)
+# 🚀 Numpy Implementation
 
 -- Implements a 3-layer neural network for non-linear regression.
 -- Uses manual backpropagation and chain rule-based gradient propagation.
@@ -6,7 +6,6 @@
 -- Displays loss over epochs and final output.
 -- Uses synthetic 3-variable data visualization in 4D plot.N
 
-Colab Link:
+### 📂 Colab Notebook:
 
-Youtube Video Link:
-
+### 🎥 Youtube Video: [https://youtu.be/ESLOjeB28vE ](https://youtu.be/IYIRUAwqw9U) 

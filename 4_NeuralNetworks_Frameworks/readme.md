@@ -17,8 +17,6 @@ Additionally, the project follows the constraints and requirements specified in 
 
 ## Repository Structure
 
-```
-## Project Structure
 The repository consists of three main folders:
 
 ### **Numpy Implementation** (`numpy/`)
@@ -34,7 +32,6 @@ The repository consists of three main folders:
 - [`tensorflow_builtin.ipynb`](tensorflow/tensorflow_builtin.ipynb): Using TensorFlow’s built-in layers.
 - [`tensorflow_functional.ipynb`](tensorflow/tensorflow_functional.ipynb): Implementation using the Functional API.
 - [`tensorflow_highlevel.ipynb`](tensorflow/tensorflow_highlevel.ipynb): High-level API implementation.
-```
 
 ---
 

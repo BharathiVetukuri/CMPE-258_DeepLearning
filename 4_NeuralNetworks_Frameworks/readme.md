@@ -19,15 +19,15 @@ Additionally, the project follows the constraints and requirements specified in 
 
 The repository consists of three main folders:
 
-### **Numpy Implementation** (`numpy/`)
+### **Numpy Implementation** (`1_NeuralNetworks_NumPy/`)
 - [`numpy_nn.ipynb`](numpy/numpy_nn.ipynb): A 3-layer neural network built from scratch using NumPy, implementing manual backpropagation with chain rule-based gradient propagation.
 
-### **PyTorch Implementations** (`pytorch/`)
+### **PyTorch Implementations** (`2_NeuralNetworks_PyTorch/`)
 - [`pytorch_scratch.ipynb`](pytorch/pytorch_scratch.ipynb): PyTorch version without built-in layers, defining a fully custom network.
 - [`pytorch_classes.ipynb`](pytorch/pytorch_classes.ipynb): Using PyTorch's built-in modules for a cleaner and more scalable model.
 - [`pytorch_lightning.ipynb`](pytorch/pytorch_lightning.ipynb): Implementation using PyTorch Lightning for structured training.
 
-### **TensorFlow Implementations** (`tensorflow/`)
+### **TensorFlow Implementations** (`3_NeuralNetworks_TensorFlow/`)
 - [`tensorflow_scratch.ipynb`](tensorflow/tensorflow_scratch.ipynb): TensorFlow implementation without high-level APIs, using `einsum` instead of matrix multiplication.
 - [`tensorflow_builtin.ipynb`](tensorflow/tensorflow_builtin.ipynb): Using TensorFlow’s built-in layers.
 - [`tensorflow_functional.ipynb`](tensorflow/tensorflow_functional.ipynb): Implementation using the Functional API.
@@ -68,14 +68,8 @@ The repository consists of three main folders:
 - [TensorFlow Functional API](notebooks/tensorflow_functional.ipynb)
 - [TensorFlow High-Level API](notebooks/tensorflow_highlevel.ipynb)
 
-### **4. JAX Implementation**
-- Uses JAX for automatic differentiation and high-performance computation.
-- Implements the **3-layer deep neural network** with JAX’s functional paradigm.
-
-[Notebook Link](notebooks/jax_nn.ipynb)
-
 ---
 
 ## Video
 
-https://youtu.be/IYIRUAwqw9U 
+Each Folder readme.md contains its respective Youtube Video Links.

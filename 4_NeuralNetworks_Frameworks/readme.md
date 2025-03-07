@@ -20,7 +20,8 @@ Additionally, the project follows the constraints and requirements specified in 
 The repository consists of three main folders:
 
 ### **Numpy Implementation** (`1_NeuralNetworks_NumPy/`)
-- [`numpy_nn.ipynb`](numpy/numpy_nn.ipynb): A 3-layer neural network built from scratch using NumPy, implementing manual backpropagation with chain rule-based gradient propagation.
+- [`numpy_nn.ipynb`](4_NeuralNetworks_Frameworks/1_NeuralNetworks_NumPy
+/A_NumPy_3LayerNN_Non_LinearRegression.ipynb): A 3-layer neural network built from scratch using NumPy, implementing manual backpropagation with chain rule-based gradient propagation.
 
 ### **PyTorch Implementations** (`2_NeuralNetworks_PyTorch/`)
 - [`pytorch_scratch.ipynb`](pytorch/pytorch_scratch.ipynb): PyTorch version without built-in layers, defining a fully custom network.

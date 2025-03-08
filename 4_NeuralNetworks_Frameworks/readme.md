@@ -44,7 +44,7 @@ The repository consists of three main folders:
 - Displays loss over epochs and final output.
 - Uses synthetic 3-variable data visualization in **4D plot**.
 
-[Notebook Link]([notebooks/numpy_nn.ipynb](https://colab.research.google.com/drive/1TK2XQ1ERwowKK7RTcZ_UCMmQqD5phJKP?usp=sharing))
+[Notebook Link](https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/blob/main/4_NeuralNetworks_Frameworks/1_NeuralNetworks_NumPy/A_NumPy_3LayerNN_Non_LinearRegression.ipynb)
 
 ### **2. PyTorch Implementations**
 - **From Scratch:** No built-in PyTorch layers, manual tensor operations.

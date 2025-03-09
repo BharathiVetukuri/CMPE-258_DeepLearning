@@ -1,5 +1,7 @@
 # 🚀 TensorFlow Implementation
 
+![image](https://github.com/user-attachments/assets/41382e3f-74dd-43d1-92d7-6ac49e19766a)
+
 ### 📂 Colab Notebooks: 
 
 **Tensorflow various variants low level, api, functional, model, builtin**: https://colab.research.google.com/drive/1OsPFeH_CXppbYf1eiFc-xzRwFNaOejrr?usp=sharing

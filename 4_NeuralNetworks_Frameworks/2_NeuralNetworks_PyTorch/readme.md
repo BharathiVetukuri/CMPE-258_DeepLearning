@@ -15,6 +15,6 @@
 
 ### 🎥 Youtube Video: 
 
-[https://youtu.be/IYIRUAwqw9U ](https://youtu.be/IYIRUAwqw9U) 
+(https://youtu.be/A7_ViVidEQk)
 
-[![NN_NumPy](https://img.youtube.com/vi/IYIRUAwqw9U/0.jpg)](https://www.youtube.com/watch?v=IYIRUAwqw9U)
+[![NN_PyTorch](https://img.youtube.com/vi/A7_ViVidEQk/0.jpg)](https://www.youtube.com/watch?v=A7_ViVidEQk)

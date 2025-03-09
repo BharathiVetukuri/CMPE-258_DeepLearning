@@ -44,7 +44,8 @@ The repository consists of three main folders:
 - Displays loss over epochs and final output.
 - Uses synthetic 3-variable data visualization in **4D plot**.
 
-[Notebook Link](https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/blob/main/4_NeuralNetworks_Frameworks/1_NeuralNetworks_NumPy/A_NumPy_3LayerNN_Non_LinearRegression.ipynb)
+[Notebook Links]
+[Neural Networks - NumPy](https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/blob/main/4_NeuralNetworks_Frameworks/1_NeuralNetworks_NumPy/A_NumPy_3LayerNN_Non_LinearRegression.ipynb)
 
 ### **2. PyTorch Implementations**
 - **From Scratch:** No built-in PyTorch layers, manual tensor operations.
@@ -52,9 +53,9 @@ The repository consists of three main folders:
 - **Lightning Version:** More modular and scalable approach.
 
 [Notebook Links]
-- [PyTorch From Scratch](notebooks/pytorch_nn.ipynb)
-- [PyTorch Class-Based](notebooks/pytorch_nn_classes.ipynb)
-- [PyTorch Lightning](notebooks/pytorch_lightning_nn.ipynb)
+- [PyTorch From Scratch]([notebooks/pytorch_nn.ipynb](https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/blob/main/4_NeuralNetworks_Frameworks/2_NeuralNetworks_PyTorch/B_PyTorch_3LayerNN.ipynb))
+- [PyTorch Class-Based]([notebooks/pytorch_nn_classes.ipynb](https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/blob/main/4_NeuralNetworks_Frameworks/2_NeuralNetworks_PyTorch/C_PyTorch_Class_Based_3LayerDNN.ipynb))
+- [PyTorch Lightning]([notebooks/pytorch_lightning_nn.ipynb](https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/blob/main/4_NeuralNetworks_Frameworks/2_NeuralNetworks_PyTorch/D_PyTprchLightning_3NN.ipynb))
 
 ### **3. TensorFlow Implementations**
 - **Low-Level API:** No built-in layers, manual operations using TensorFlow.
@@ -63,10 +64,11 @@ The repository consists of three main folders:
 - **High-Level API:** Uses `tf.keras.Model` for efficient design.
 
 [Notebook Links]
-- [TensorFlow Low-Level API](notebooks/tensorflow_lowlevel.ipynb)
-- [TensorFlow Built-in Layers](notebooks/tensorflow_builtin.ipynb)
-- [TensorFlow Functional API](notebooks/tensorflow_functional.ipynb)
-- [TensorFlow High-Level API](notebooks/tensorflow_highlevel.ipynb)
+- [TensorFlow Variations]([notebooks/tensorflow_lowlevel.ipynb](https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/blob/main/4_NeuralNetworks_Frameworks/3_NeuralNetworks_TensorFlow/E_TensorFlow_Variants.ipynb))
+- [TensorFlow Low-Level API]([notebooks/tensorflow_lowlevel.ipynb](https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/blob/main/4_NeuralNetworks_Frameworks/3_NeuralNetworks_TensorFlow/F_TensorFlow_WithoutHighLevelAPIs.ipynb))
+- [TensorFlow Built-in Layers]([notebooks/tensorflow_builtin.ipynb](https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/blob/main/4_NeuralNetworks_Frameworks/3_NeuralNetworks_TensorFlow/G_TensorFlow_BuiltIn.ipynb))
+- [TensorFlow Functional API]([notebooks/tensorflow_functional.ipynb](https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/blob/main/4_NeuralNetworks_Frameworks/3_NeuralNetworks_TensorFlow/H_TensorFlow_FunctionalAPI.ipynb))
+- [TensorFlow High-Level API]([notebooks/tensorflow_highlevel.ipynb](https://github.com/BharathiVetukuri/CMPE-258_DeepLearning/blob/main/4_NeuralNetworks_Frameworks/3_NeuralNetworks_TensorFlow/I_TensorFlow_HighLevelAPI.ipynb))
 
 ---
 

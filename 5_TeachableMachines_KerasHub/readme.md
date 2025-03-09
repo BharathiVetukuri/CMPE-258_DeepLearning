@@ -11,7 +11,7 @@ Implemented **three different examples** using **Teachable Machines**, covering 
   - Uses Teachable Machines' **Text Model** to classify different input text phrases.
 
 - 🔹 **Image Recognition Model**
-  - Trained on **custom image datasets**.
+  - Trained on **custom Playing Card images**.
   - Explores fine-tuning and enhancing model accuracy using **transfer learning**.
 
 - 🔹 **Video Gesture Recognition**

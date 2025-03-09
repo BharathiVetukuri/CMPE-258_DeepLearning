@@ -40,4 +40,4 @@ Explored **Keras Hub** models by implementing small variations of existing model
 ---
 
 ## 🔗 **Submission Details**
-- **Colab Links:** [🔗 Shared Folder Link](#)
+- **Colab Links:** [[🔗 Shared Folder Link](#)](https://colab.research.google.com/drive/1DvHmz_ZNhbmByD72A72Ut5tsfCVQPuSC?usp=sharing) 

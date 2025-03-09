@@ -1,4 +1,6 @@
-# Colab Links:
+# 🚀 TensorFlow Implementation
+
+### 📂 Colab Notebooks: 
 
 **Tensorflow various variants low level, api, functional, model, builtin**: https://colab.research.google.com/drive/1OsPFeH_CXppbYf1eiFc-xzRwFNaOejrr?usp=sharing
 
@@ -10,5 +12,8 @@
 
 **TensorFlow only High Level API**: https://colab.research.google.com/drive/1BfUQ0QGBztJS_GsRRlta_9NK2Iho-CiA?usp=sharing 
 
-# Youtube Video:
+### 🎥 Youtube Video: 
 
+https://youtu.be/GV_2F2Di3uY 
+
+[![NN_TensorFlow](https://img.youtube.com/vi/GV_2F2Di3uY/0.jpg)](https://www.youtube.com/watch?v=GV_2F2Di3uY)

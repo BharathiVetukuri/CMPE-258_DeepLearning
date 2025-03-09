@@ -1,14 +1,17 @@
 # 🚀 PyTorch Implementation
 
 * Implements a 3-layer neural network for non-linear regression.
-* Uses manual backpropagation and chain rule-based gradient propagation.
 * Includes non-linear activation functions.
 * Displays loss over epochs and final output.
 * Uses synthetic 3-variable data visualization in 4D plot.
 
-### 📂 Colab Notebook: 
+### 📂 Colab Notebooks: 
 
-https://colab.research.google.com/drive/1TK2XQ1ERwowKK7RTcZ_UCMmQqD5phJKP?usp=sharing  
+**PyTorch Manual**: https://colab.research.google.com/drive/1OWWGa5ADi238yHNPJCsW3lj3Op81f9NW?usp=sharing 
+
+**PyTorch BuiltIn Classes**: https://colab.research.google.com/drive/1oeY8BB8A4zdB5WDQBrk6_9PM3pjsfO46?usp=sharing
+
+**PyTorch Lightning**: https://colab.research.google.com/drive/1H6-h1TLsS7Zb8CjzzEi1lgamHsblcRhD?usp=sharing 
 
 ### 🎥 Youtube Video: 
 

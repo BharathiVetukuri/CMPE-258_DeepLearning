@@ -1,7 +1,7 @@
 # LLM Fine-Tuning & Continued Pretraining with Unsloth
 
 ## 📌 Overview
-This repository contains implementations for fine-tuning various LLMs using **Unsloth AI**, including continued pretraining, chat templates, reward modeling, and reasoning models. The models used include **Llama 3, Mistral, Phi-3, Qwen2, TinyLlama, and more**.
+This repository contains implementations for fine-tuning various LLMs using **Unsloth AI**, including continued pretraining, chat templates, reward modeling, and reasoning models. The models used include **Llama 3, Mistral, Phi-3, Qwen2, TinyLlama and more**.
 
 ---
 
@@ -35,3 +35,6 @@ This repository contains implementations for fine-tuning various LLMs using **Un
 
 ### 🔬 **H: Reasoning Model with GRPO**
 - Training an **LLM reasoning model** using Unsloth.
+
+Colab Link: https://colab.research.google.com/drive/1thX8UeB-eGB_vuVvtZEC5XroXLjFRUHl?usp=sharing
+Youtube Video: https://youtu.be/A7_ViVidEQk 

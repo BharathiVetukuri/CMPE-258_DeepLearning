@@ -43,3 +43,4 @@ Explored **Keras Hub** models by implementing small variations of existing model
 
 - **Teachable Machines - Text Classifier**: https://colab.research.google.com/drive/1OTwvlRZjV-d_faVQGgk8lhK3wIYWjEN9?usp=sharing
 - **Teachable Machines - Image Classifier**:https://colab.research.google.com/drive/1DvHmz_ZNhbmByD72A72Ut5tsfCVQPuSC?usp=sharing
+- **Teachable Machines - Pose Model/Video**:https://colab.research.google.com/drive/1DvHmz_ZNhbmByD72A72Ut5tsfCVQPuSC?usp=sharing

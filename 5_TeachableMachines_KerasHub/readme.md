@@ -32,12 +32,13 @@ Explored **Keras Hub** models by implementing small variations of existing model
 ---
 
 ## 📺 **YouTube Demo Links**
-- **Teachable Machines - Text Example:** https://youtu.be/GV_2F2Di3uY
+- **Teachable Machines - Text Example:** https://youtu.be/kJX_WWn3cAk 
 - **Teachable Machines - Image Example:** https://youtu.be/GV_2F2Di3uY
 - **Teachable Machines - Video Example:** https://youtu.be/ESLOjeB28vE
 - **Keras Hub (Easy to Expert) Demos:**  https://youtu.be/A7_ViVidEQk
 
 ---
 
-## 🔗 **Submission Details**
-- **Colab Links:** https://colab.research.google.com/drive/1DvHmz_ZNhbmByD72A72Ut5tsfCVQPuSC?usp=sharing 
+## 🔗 **Colab Links:****
+
+- **Teachable Machines - Text Classifier**: https://colab.research.google.com/drive/1OTwvlRZjV-d_faVQGgk8lhK3wIYWjEN9?usp=sharing 

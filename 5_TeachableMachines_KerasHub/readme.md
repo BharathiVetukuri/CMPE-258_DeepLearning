@@ -39,7 +39,7 @@ Explored **Keras Hub** models by implementing small variations of existing model
 - **Teachable Machines - Image Example:** https://youtu.be/0aHBCAOBba0 
 - **Teachable Machines - Pose Model/Video Example:** https://youtu.be/sPfCCC7TwUA
 - **Teachable Machines - Audio Example:** https://youtu.be/AZfQ_QTEj9A
-- **Keras Hub (Easy to Expert) Demos:**  https://youtu.be/A7_ViVidEQk
+- **Keras Hub Image and Text(Easy to Expert) Demos:**  https://youtu.be/A7_ViVidEQk
 
 ---
 
@@ -49,3 +49,11 @@ Explored **Keras Hub** models by implementing small variations of existing model
 - **Teachable Machines - Image Classifier**:https://colab.research.google.com/drive/1cRpHn1wb7zukx8Nlar9UlUP8FopHVeAJ?usp=sharing
 - **Teachable Machines - Pose Model/Video**:https://colab.research.google.com/drive/1DvHmz_ZNhbmByD72A72Ut5tsfCVQPuSC?usp=sharing
 - **Teachable Machines - Audio Project**:https://colab.research.google.com/drive/1jowNXX60fZdmJdc_tNqJtEW-3iRq16ks?usp=sharing
+  
+- **Keras Hub Image - Easy**:https://colab.research.google.com/drive/1RXjz7ov2X3Don64WiKjcm2itepfGkJqz?usp=sharing 
+- **Keras Hub Image - Intermediate**:https://colab.research.google.com/drive/18GY5-FQfqRW2FEXUWroXtj82Ypn6nGKJ?usp=sharing
+- **Keras Hub Image - Advanced**:https://colab.research.google.com/drive/1EJVVxZsZlVTMFVcjUSZRA02JTZ_ziJ8P?usp=sharing
+- **Keras Hub Image - Expert**:https://colab.research.google.com/drive/1rhmo-0JfLlBYNDDjOKpIbEKiEGjqIMEb?usp=sharing
+- **Keras Hub Text - Easy**:https://colab.research.google.com/drive/1ojDdBgfZERkxOx7kyJKOApHVk4eCKbZq?usp=sharing
+- **Keras Hub Text - Intermediate**:https://colab.research.google.com/drive/1GPHtqkH4d-DqOfH8DYCqCmk42o6a_Mh7?usp=sharing
+- **Keras Hub Text - Advanced - Expert**:https://colab.research.google.com/drive/1zqkhwC3hjBPDH1O_OZg07ex5ycPCRrqW?usp=sharing

@@ -16,6 +16,9 @@ Implemented **three different examples** using **Teachable Machines**, covering 
 
 - 🔹 **Video Gesture Recognition**
   - Uses Teachable Machines’ **Pose Model** for recognizing body gestures from video input.
+ 
+- 🔹 **Audio Project - Sound Recognition**
+  - Uses Teachable Machines’ **Audio Model** for recognizing sounds like noise, dog barking, cat or bird sounds from audio input.
 
 ---
 
@@ -35,6 +38,7 @@ Explored **Keras Hub** models by implementing small variations of existing model
 - **Teachable Machines - Text Example:** https://youtu.be/kJX_WWn3cAk 
 - **Teachable Machines - Image Example:** https://youtu.be/0aHBCAOBba0 
 - **Teachable Machines - Pose Model/Video Example:** https://youtu.be/sPfCCC7TwUA
+- **Teachable Machines - Audio Example:** https://youtu.be/AZfQ_QTEj9A
 - **Keras Hub (Easy to Expert) Demos:**  https://youtu.be/A7_ViVidEQk
 
 ---
@@ -44,3 +48,4 @@ Explored **Keras Hub** models by implementing small variations of existing model
 - **Teachable Machines - Text Classifier**: https://colab.research.google.com/drive/1OTwvlRZjV-d_faVQGgk8lhK3wIYWjEN9?usp=sharing
 - **Teachable Machines - Image Classifier**:https://colab.research.google.com/drive/1cRpHn1wb7zukx8Nlar9UlUP8FopHVeAJ?usp=sharing
 - **Teachable Machines - Pose Model/Video**:https://colab.research.google.com/drive/1DvHmz_ZNhbmByD72A72Ut5tsfCVQPuSC?usp=sharing
+- **Teachable Machines - Audio Project**:https://colab.research.google.com/drive/1jowNXX60fZdmJdc_tNqJtEW-3iRq16ks?usp=sharing

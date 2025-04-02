@@ -7,8 +7,8 @@ This repository contains complete demonstrations of **Teachable Machines** and *
 Implemented **three different examples** using **Teachable Machines**, covering text, image and video-based models.
 
 - 🔹 **Text Classification Model**
-  - A simple text-based classifier trained on custom categories.
-  - Uses Teachable Machines' **Text Model** to classify different input text phrases.
+  - A simple text-based classifier trained on Movie Reviews Dataset.
+  - Uses Teachable Machines' **Text Model** to classify different input text phrases which are movie reviews to classify them intp 3 categories: Positive, Negative and Neutral.
 
 - 🔹 **Image Recognition Model**
   - Trained on **custom Playing Card images**.

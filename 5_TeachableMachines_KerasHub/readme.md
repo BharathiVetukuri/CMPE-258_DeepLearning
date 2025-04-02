@@ -33,7 +33,7 @@ Explored **Keras Hub** models by implementing small variations of existing model
 
 ## 📺 **YouTube Demo Links**
 - **Teachable Machines - Text Example:** https://youtu.be/kJX_WWn3cAk 
-- **Teachable Machines - Image Example:** https://youtu.be/GV_2F2Di3uY
+- **Teachable Machines - Image Example:** https://youtu.be/0aHBCAOBba0 
 - **Teachable Machines - Video Example:** https://youtu.be/ESLOjeB28vE
 - **Keras Hub (Easy to Expert) Demos:**  https://youtu.be/A7_ViVidEQk
 

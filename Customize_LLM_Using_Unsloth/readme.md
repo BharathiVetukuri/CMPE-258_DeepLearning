@@ -48,4 +48,4 @@ This repository contains implementations for fine-tuning various LLMs using **Un
   Colab Link: https://colab.research.google.com/drive/129bJW3hCJyCsLHQErofIkAPMTkmPl1mK?usp=sharing 
 
 
-Youtube Video: https://youtu.be/A7_ViVidEQk 
+Youtube Video: https://youtu.be/RXBIezSjnSI 

@@ -49,3 +49,5 @@ This repository contains implementations for fine-tuning various LLMs using **Un
 
 
 Youtube Video: https://youtu.be/RXBIezSjnSI 
+
+[![UnSloth](https://img.youtube.com/vi/RXBIezSjnSI/0.jpg)](https://www.youtube.com/watch?v=RXBIezSjnSI)

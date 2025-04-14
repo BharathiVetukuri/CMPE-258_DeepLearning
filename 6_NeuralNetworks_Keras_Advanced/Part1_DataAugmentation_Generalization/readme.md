@@ -5,7 +5,8 @@ This section covers essential deep learning regularization and data augmentation
 
 ## 🎥 Walkthrough Video
 
-📺 [Watch Part 1 Video](https://your-video-link-here.com)
+[Watch Part 1 Video](https://your-video-link-here.com)
+
 
 
 ## 📚 Notebook Index

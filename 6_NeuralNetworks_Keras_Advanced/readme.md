@@ -2,7 +2,6 @@
 
 This repository contains a comprehensive suite of Google Colab notebooks that demonstrate **advanced neural network training techniques using TensorFlow/Keras**. The focus is on regularization, data augmentation, tuning, and custom model components. This hands-on implementation helps build strong foundations and practical know-how in deep learning workflows.
 
----
 
 ## 🎯 Assignment Objective
 
@@ -31,8 +30,6 @@ Each notebook in this section illustrates one or more techniques in-depth, with 
 | `11_Augmentation_MultiModal.ipynb`  | Data augmentation for image, video, text, time series using `AugLy` and `nlpaug`          |
 | `12_FastAI_DataAugmentation.ipynb`  | Augmentation and test-time augmentation (`TTA`) using FastAI transforms                   |
 
----
-
 ## 📗 Part 2: Advanced Keras Constructs
 
 These notebooks demonstrate advanced Keras and TensorFlow customization techniques including custom layers, models, losses, metrics, and training workflows.
@@ -51,7 +48,7 @@ These notebooks demonstrate advanced Keras and TensorFlow customization techniqu
 | `10_Custom_Optimizers.ipynb`            | Implementing `MyMomentumOptimizer`, extending base optimizer behavior                      |
 | `11_Custom_Training_Loops.ipynb`        | From-scratch training loop using `tf.GradientTape` on `FashionMNIST`                      |
 
----
+# Colab Links
 
 📝 All notebooks are executed in Colab, thoroughly annotated, and explained in the walkthrough video. Please find the links to individual Colabs in the readme.md files of Part-1 and Part-2.
 

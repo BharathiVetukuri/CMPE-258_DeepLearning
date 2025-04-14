@@ -1,8 +1,6 @@
-# 🤖 Assignment 7: Effective AI Agent Design Patterns using LangGraph and CrewAI
+![image](https://github.com/user-attachments/assets/1e223853-00eb-4170-9572-8256963fe9d5)# 🤖 Assignment 7: Effective AI Agent Design Patterns using LangGraph and CrewAI
 
 This project demonstrates several foundational agent design patterns described in **"Building Effective Agents"**, implemented using two frameworks: [LangGraph](https://langchain-ai.github.io/langgraph/tutorials/workflows) and [CrewAI](https://github.com/joaomdmoura/crewAI). The goal is to explore and compare these frameworks while building intelligent multi-agent systems.
-
----
 
 ## 🧠 Assignment Objective
 
@@ -27,19 +25,23 @@ This project demonstrates several foundational agent design patterns described i
 - Logs agent traces to [LangSmith](https://smith.langchain.com) for analysis.
 - Includes inline screenshots of trace outputs.
 
+#### Colab Link: https://colab.research.google.com/drive/1YvP5kAAhrsAmS0P2Nb2m2Dukoz64q1Es?usp=sharing
+
 ### 📗 2. `CrewAI_Agent_Patterns.ipynb`
 - Implements same patterns using [CrewAI](https://github.com/joaomdmoura/crewAI).
 - Demonstrates task planning, multi-agent delegation, and dynamic tool usage.
+
+#### Colab Link: https://colab.research.google.com/drive/1CrdZCe64Pq2VFIcbAIn05hINiRQPVDbX?usp=sharing 
 
 ---
 
 ## 🖼 LangSmith Trace Screenshots
 
 ### 🔧 ReAct Agent Trace  
-![ReAct Trace](./assets/react_trace.png)
+![ReAct Trace](![image](https://github.com/user-attachments/assets/d637a59b-2bbd-42de-ad60-6913540d0d95))
 
 ### 🧠 Memory-Augmented Agent Trace  
-![Memory Agent Trace](./assets/memory_trace.png)
+![Memory Agent Trace](![image](https://github.com/user-attachments/assets/aceaef6e-4020-422c-9a5c-3fdcaf6feb62))
 
 ---
 

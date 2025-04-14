@@ -54,11 +54,14 @@ These notebooks demonstrate advanced Keras and TensorFlow customization techniqu
 
 
 # 🎥 Walkthrough Video
+
 Watch the detailed walkthrough:
+
 🔗 Video Link (Google Drive / YouTube)
 
 
 🛠 Requirements
+
 - Python 3.10+
 
 - TensorFlow 2.12+

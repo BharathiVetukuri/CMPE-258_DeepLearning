@@ -47,11 +47,6 @@ This project demonstrates several foundational agent design patterns described i
 
 📺 **Watch here**: [Walkthrough Video (YouTube/Drive)](https://your-video-link-here.com)
 
-Covers:
-- Agent architecture in both frameworks
-- Differences in APIs and behavior
-- Output analysis and debug traces
-
 ---
 
 ## 🛠 Technologies Used

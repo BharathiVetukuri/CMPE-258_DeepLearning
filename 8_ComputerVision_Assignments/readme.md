@@ -92,7 +92,7 @@ Each section below references a self-contained Colab notebook implementing the c
 - Visualized slices and model performance
 - **Colab**: https://colab.research.google.com/drive/1QxrZf8dGv29G1jHjw16QaYbqClFCdoZK?usp=sharing 
 
-**🎥Video**: [Walkthrough Video (YouTube/Drive)](https://your-video-link-here.com)
+**🎥Video**: https://youtu.be/O5LW05R4DCc 
 
 ---
 

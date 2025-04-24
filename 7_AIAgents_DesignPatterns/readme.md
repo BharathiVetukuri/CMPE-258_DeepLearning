@@ -55,7 +55,9 @@ This project demonstrates several foundational agent design patterns described i
 
 ## 🎥 Walkthrough Videos
 
-📺 **Watch here**: [Walkthrough Video (YouTube/Drive)](https://your-video-link-here.com)
+**LangGraph- Building Effective AI Agents**: **https://youtu.be/t6OyQQtYwuo**
+
+**CrewAI- Building Effective AI Agents**: **https://youtu.be/7EhlqlLYMDc**
 
 ---
 

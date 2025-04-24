@@ -57,10 +57,10 @@ These notebooks demonstrate advanced Keras and TensorFlow customization techniqu
 
 Watch the detailed walkthrough:
 
-🔗 Video Link (Google Drive / YouTube)
+🔗 Video Link (Google Drive / YouTube): Please find all the Video Links in the readme.md files of Part-1 and Part-2
 
 
-🛠 Requirements
+# 🛠 Requirements
 
 - Python 3.10+
 

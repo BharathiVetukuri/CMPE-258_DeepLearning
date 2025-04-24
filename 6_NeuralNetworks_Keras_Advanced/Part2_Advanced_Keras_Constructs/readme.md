@@ -21,7 +21,7 @@ This section focuses on advanced deep learning implementations including custom 
 | 07_Custom_Metrics.ipynb | HuberMetric, threshold-based metrics | [Open in Colab](https://colab.research.google.com/drive/1JEon8zyqUn_mUEp8o7R3gJZ-WOZNMIV3?usp=sharing) |
 | 08_Custom_Layers.ipynb | ExponentialLayer, GaussianNoise, MyDense | [Open in Colab](https://colab.research.google.com/drive/1HtidaHAtLzkPZS6-46paNlKfmOhMuL8K?usp=sharing) |
 | 09_Custom_Models.ipynb | ResidualRegressor, ResidualBlock architectures | [Open in Colab](https://colab.research.google.com/drive/1LN8FYAzNJ38PJgDuXqsTWhKmVcHz4P2E?usp=sharing) |
-| 10_Custom_Optimizers.ipynb | MyMomentumOptimizer, Lookahead-like behavior | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part2_Advanced_Keras_Constructs/10_Custom_Optimizers.ipynb) |
+| 10_Custom_Optimizers.ipynb | MyMomentumOptimizer, Lookahead-like behavior | [Open in Colab](https://colab.research.google.com/drive/1bdh1M5xOu-XxHCX8KzGV8N_TQKWhqSo8?usp=sharing) |
 | 11_Custom_Training_Loops.ipynb | Full training loop using `tf.GradientTape` | [Open in Colab](https://colab.research.google.com/drive/1C3-WuthvEIngd1_mw6QeFHn52Vvx4CKG?usp=sharing) |
 
 

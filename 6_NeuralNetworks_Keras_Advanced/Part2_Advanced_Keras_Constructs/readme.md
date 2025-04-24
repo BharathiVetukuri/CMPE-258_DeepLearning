@@ -5,7 +5,7 @@ This section focuses on advanced deep learning implementations including custom 
 
 ## 🎥 Walkthrough Video
 
-[Watch Part 2 Video](https://your-video-link-here.com)
+[Watch Part 2 Video](https://youtu.be/-aKASQ-fR_A)
 
 
 ## 📚 Notebook Index

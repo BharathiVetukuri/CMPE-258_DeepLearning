@@ -21,5 +21,5 @@
 
 **Colab**: https://colab.research.google.com/drive/1Wz69TXXt4hKg58prBEgI6NE40nh4Qymc?usp=sharing 
 
-**🎥Video**: [Walkthrough Video (YouTube/Drive)](https://your-video-link-here.com)
+**🎥Video**: https://youtu.be/qEBwe5gIFa0 
 

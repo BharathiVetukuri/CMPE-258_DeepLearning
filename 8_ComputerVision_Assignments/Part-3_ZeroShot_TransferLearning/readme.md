@@ -5,4 +5,4 @@
 
 **Colab**: https://colab.research.google.com/drive/1lz_rR4KPKLkxpmokAUEbkd1O5FUsb3y0?usp=sharing 
 
-**🎥Video**: [Walkthrough Video (YouTube/Drive)](https://your-video-link-here.com)
+**🎥Video**: https://youtu.be/XrEt12r-afA 

@@ -23,6 +23,6 @@ This section covers essential deep learning regularization and data augmentation
 | 08_Callbacks_TensorBoard.ipynb | TensorBoard, ModelCheckpoint, ReduceLROnPlateau | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part1_DataAugmentation_Generalization/08_Callbacks_TensorBoard.ipynb) |
 | 09_Keras_Tuner_Optimization.ipynb | Keras Tuner with Hyperband, RandomSearch | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part1_DataAugmentation_Generalization/09_Keras_Tuner_Optimization.ipynb) |
 | 10_KerasCV_Augmentation.ipynb | `keras_cv.layers`, `CutMix`, `RandAugment`, `MixUp` | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part1_DataAugmentation_Generalization/10_KerasCV_Augmentation.ipynb) |
-| 11_Augmentation_MultiModal.ipynb | `AugLy`, `nlpaug` for text, audio, video, tabular | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part1_DataAugmentation_Generalization/11_Augmentation_MultiModal.ipynb) |
+| 11_Augmentation_MultiModal.ipynb | `AugLy`, `nlpaug` for text, audio, video, tabular | [Open in Colab](https://colab.research.google.com/drive/1FuVmQC-OjmfKcDlRO1jidfyVFOYQA84Z?usp=sharing) |
 | 12_FastAI_DataAugmentation.ipynb | FastAI Transforms and TTA | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part1_DataAugmentation_Generalization/12_FastAI_DataAugmentation.ipynb) |
 

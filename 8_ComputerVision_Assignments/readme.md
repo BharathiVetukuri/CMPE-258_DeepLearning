@@ -30,19 +30,19 @@ Each section below references a self-contained Colab notebook implementing the c
 - Transfer learning with EfficientNet and fine-tuning
 - BiT used for SOTA baseline
 - Used Dogs vs Cats or Flower classification as reference
-- Colab: `image_transfer_learning_dogs.ipynb`
+- **Colab**: https://colab.research.google.com/drive/1fwBqqVI7OMOi8GSY5kQJFmWFFwcRFDLT?usp=sharing
 
 ### Audio
 - Used YAMNet for feature extraction
 - Classifier built using Logistic Regression on audio embeddings
 - t-SNE and confusion matrix visualized
-- Colab: `audio_transfer_learning_yamnet.ipynb`
+- **Colab**: https://colab.research.google.com/drive/1Za8VoSJl5fXUMEA89_lFoVknOmqqIyMT?usp=sharing 
 
 ### Video
 - Used TFHub's I3D model on preprocessed UCF101 data
 - Demonstrated feature extraction and fine-tuning
 - Simulated setup with synthetic data for reliability
-- Colab: `video_transfer_learning_ucf101.ipynb`
+- **Colab**: https://colab.research.google.com/drive/1Wz69TXXt4hKg58prBEgI6NE40nh4Qymc?usp=sharing 
 
 **🎥Video**: [Walkthrough Video (YouTube/Drive)](https://your-video-link-here.com)
 
@@ -52,7 +52,7 @@ Each section below references a self-contained Colab notebook implementing the c
 - Used OpenAI's CLIP model for zero-shot classification
 - Dataset: real web images and synthetic prompts
 - Used BiT + EfficientNet on Flowers dataset from TFHub
-- Colab: `zeroshot_clip_tfhub_bit.ipynb`
+- **Colab**: https://colab.research.google.com/drive/1lz_rR4KPKLkxpmokAUEbkd1O5FUsb3y0?usp=sharing 
 
 **🎥Video**: [Walkthrough Video (YouTube/Drive)](https://your-video-link-here.com)
 
@@ -63,16 +63,16 @@ Each section below references a self-contained Colab notebook implementing the c
 ### MNIST
 - Demonstrated EfficientNet and BiT
 - MLP-Mixer and ConvNeXt v2 for SOTA comparison
-- Colab: `mnist_transfer_learning.ipynb`
+- **Colab**: https://colab.research.google.com/drive/13Oq_N4AP9aSJECelSrcmO8McKgOafF2Z?usp=sharing 
 
 ### Fashion MNIST
 - Same structure with proper visual evaluation
-- Colab: `fashionmnist_transfer_learning.ipynb`
+- **Colab**: https://colab.research.google.com/drive/14O8oW0UQK8u0KwnNPP_uh13g6smPTTSG?usp=sharing 
 
 ### CIFAR-10
 - Used flattened features for Logistic Regression baseline
 - Confusion matrix, per-class accuracy, and image prediction visualization
-- Colab: `cifar10_transfer_learning.ipynb`
+- **Colab**: https://colab.research.google.com/drive/1r62YG7Q0bi9VQ6Vzz1GHOEU3yxklmTU0?usp=sharing 
 
 **🎥Video**: [Walkthrough Video (YouTube/Drive)](https://your-video-link-here.com)
 
@@ -84,13 +84,13 @@ Each section below references a self-contained Colab notebook implementing the c
 - Real-world dataset loaded via .zip with NORMAL/PNEUMONIA folders
 - ConvNet trained on uploaded images
 - Class-wise evaluation with color-coded predictions
-- Colab: `xray_convnet_classification.ipynb`
+- **Colab**: https://colab.research.google.com/drive/1i99YP07F7Uu9I_YrRKLilXOgPATfq0D1?usp=sharing 
 
 ### b) 3D CT Scan Classification
 - Used MosMedData 3D volumes
 - Implemented full 3D CNN
 - Visualized slices and model performance
-- Colab: `ctscan_3d_classification.ipynb`
+- **Colab**: https://colab.research.google.com/drive/1QxrZf8dGv29G1jHjw16QaYbqClFCdoZK?usp=sharing 
 
 **🎥Video**: [Walkthrough Video (YouTube/Drive)](https://your-video-link-here.com)
 

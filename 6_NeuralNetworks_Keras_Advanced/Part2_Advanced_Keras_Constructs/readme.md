@@ -22,6 +22,6 @@ This section focuses on advanced deep learning implementations including custom 
 | 08_Custom_Layers.ipynb | ExponentialLayer, GaussianNoise, MyDense | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part2_Advanced_Keras_Constructs/08_Custom_Layers.ipynb) |
 | 09_Custom_Models.ipynb | ResidualRegressor, ResidualBlock architectures | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part2_Advanced_Keras_Constructs/09_Custom_Models.ipynb) |
 | 10_Custom_Optimizers.ipynb | MyMomentumOptimizer, Lookahead-like behavior | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part2_Advanced_Keras_Constructs/10_Custom_Optimizers.ipynb) |
-| 11_Custom_Training_Loops.ipynb | Full training loop using `tf.GradientTape` | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part2_Advanced_Keras_Constructs/11_Custom_Training_Loops.ipynb) |
+| 11_Custom_Training_Loops.ipynb | Full training loop using `tf.GradientTape` | [Open in Colab](https://colab.research.google.com/drive/1C3-WuthvEIngd1_mw6QeFHn52Vvx4CKG?usp=sharing) |
 
 

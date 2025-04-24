@@ -9,7 +9,7 @@ This assignment covers a broad set of computer vision tasks using deep learning 
 - Vision classifier development using datasets like MNIST, Fashion MNIST, CIFAR-10
 - Medical imaging tasks such as X-ray pneumonia and 3D CT scan classification
 
-Each section below references a self-contained Colab notebook implementing the concepts in a failproof, CPU/GPU-safe manner with complete visualizations.
+Each section below references a self-contained Colab notebook implementing the concepts with complete visualizations.
 
 ---
 

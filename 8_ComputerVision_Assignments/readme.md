@@ -74,7 +74,7 @@ Each section below references a self-contained Colab notebook implementing the c
 - Confusion matrix, per-class accuracy, and image prediction visualization
 - **Colab**: https://colab.research.google.com/drive/1r62YG7Q0bi9VQ6Vzz1GHOEU3yxklmTU0?usp=sharing 
 
-**🎥Video**: [Walkthrough Video (YouTube/Drive)](https://your-video-link-here.com)
+**🎥Video**: https://youtu.be/XLeuQNKCQbc 
 
 ---
 

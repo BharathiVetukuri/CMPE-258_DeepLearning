@@ -1,4 +1,4 @@
-# Assignment 8: Computer Vision Modules – README
+# Assignment 8: Computer Vision Modules
 
 ## Overview
 This assignment covers a broad set of computer vision tasks using deep learning with TensorFlow and Keras, including:
@@ -65,6 +65,10 @@ Each section below references a self-contained Colab notebook implementing the c
 - Used flattened features for Logistic Regression baseline
 - Confusion matrix, per-class accuracy, and image prediction visualization
 - Colab: `cifar10_transfer_learning.ipynb`
+
+---
+
+## ✅ Part 5: Medical Image Classification
 
 ### a) Pneumonia X-ray Classification
 - Real-world dataset loaded via .zip with NORMAL/PNEUMONIA folders

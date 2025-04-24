@@ -12,7 +12,7 @@ This section focuses on advanced deep learning implementations including custom 
 
 | 📒 Notebook | 🔍 Concepts Implemented | 🔗 Colab Link |
 |------------|--------------------------|---------------|
-| 01_Custom_LearningRateScheduler.ipynb | OneCycle, cosine decay, warm restarts | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part2_Advanced_Keras_Constructs/01_Custom_LearningRateScheduler.ipynb) |
+| 01_Custom_LearningRateScheduler.ipynb | OneCycle, cosine decay, warm restarts | [Open in Colab](https://colab.research.google.com/drive/1ms1_h1lS-uoSco129NnQBJUh139NkSIY?usp=sharing) |
 | 02_Custom_Dropout_Layers.ipynb | MCAlphaDropout, noise-based layers | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part2_Advanced_Keras_Constructs/02_Custom_Dropout_Layers.ipynb) |
 | 03_Custom_Normalization_Layers.ipynb | MaxNormDense, custom LayerNormalization | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part2_Advanced_Keras_Constructs/03_Custom_Normalization_Layers.ipynb) |
 | 04_TensorBoard_Tracking.ipynb | Scalars, histograms, embeddings logging | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part2_Advanced_Keras_Constructs/04_TensorBoard_Tracking.ipynb) |

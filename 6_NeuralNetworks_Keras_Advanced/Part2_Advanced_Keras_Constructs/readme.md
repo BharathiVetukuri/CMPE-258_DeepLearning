@@ -18,7 +18,7 @@ This section focuses on advanced deep learning implementations including custom 
 | 04_TensorBoard_Tracking.ipynb | Scalars, histograms, embeddings logging | [Open in Colab](https://colab.research.google.com/drive/1fvCNFPOg5QtRmXGSiuSDboQcwWuler57?usp=sharing) |
 | 05_Custom_Loss_Functions.ipynb | HuberLoss, TweedieLoss, and variations | [Open in Colab](https://colab.research.google.com/drive/1kqo0FIj5kDnBBVKRAtV6_5yMC9Q7jpse?usp=sharing) |
 | 06_Custom_Activations_Initializers.ipynb | LeakyReLU, custom initializers and constraints | [Open in Colab](https://colab.research.google.com/drive/1NBWWy5KgTRHMtDp0bG3tSL0y-Vi0x0IO?usp=sharing) |
-| 07_Custom_Metrics.ipynb | HuberMetric, threshold-based metrics | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part2_Advanced_Keras_Constructs/07_Custom_Metrics.ipynb) |
+| 07_Custom_Metrics.ipynb | HuberMetric, threshold-based metrics | [Open in Colab](https://colab.research.google.com/drive/1JEon8zyqUn_mUEp8o7R3gJZ-WOZNMIV3?usp=sharing) |
 | 08_Custom_Layers.ipynb | ExponentialLayer, GaussianNoise, MyDense | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part2_Advanced_Keras_Constructs/08_Custom_Layers.ipynb) |
 | 09_Custom_Models.ipynb | ResidualRegressor, ResidualBlock architectures | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part2_Advanced_Keras_Constructs/09_Custom_Models.ipynb) |
 | 10_Custom_Optimizers.ipynb | MyMomentumOptimizer, Lookahead-like behavior | [Open in Colab](https://colab.research.google.com/github/your-repo/blob/main/Part2_Advanced_Keras_Constructs/10_Custom_Optimizers.ipynb) |

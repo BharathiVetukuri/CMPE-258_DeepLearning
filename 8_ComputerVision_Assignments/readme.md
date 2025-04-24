@@ -20,6 +20,10 @@ Each section below references a self-contained Colab notebook implementing the c
 - t-SNE visualization of learned embeddings and confusion matrix comparison
 - Colab: `fashionmnist_supervised_contrastive.ipynb`
 
+**🎥Video**: [Walkthrough Video (YouTube/Drive)](https://your-video-link-here.com)
+
+---
+
 ## ✅ Part 2: Transfer Learning Across Modalities
 
 ### Images
@@ -40,6 +44,8 @@ Each section below references a self-contained Colab notebook implementing the c
 - Simulated setup with synthetic data for reliability
 - Colab: `video_transfer_learning_ucf101.ipynb`
 
+**🎥Video**: [Walkthrough Video (YouTube/Drive)](https://your-video-link-here.com)
+
 ---
 
 ## ✅ Part 3: Zero-Shot Learning + TFHub Transfer Learning
@@ -47,6 +53,8 @@ Each section below references a self-contained Colab notebook implementing the c
 - Dataset: real web images and synthetic prompts
 - Used BiT + EfficientNet on Flowers dataset from TFHub
 - Colab: `zeroshot_clip_tfhub_bit.ipynb`
+
+**🎥Video**: [Walkthrough Video (YouTube/Drive)](https://your-video-link-here.com)
 
 ---
 
@@ -66,6 +74,8 @@ Each section below references a self-contained Colab notebook implementing the c
 - Confusion matrix, per-class accuracy, and image prediction visualization
 - Colab: `cifar10_transfer_learning.ipynb`
 
+**🎥Video**: [Walkthrough Video (YouTube/Drive)](https://your-video-link-here.com)
+
 ---
 
 ## ✅ Part 5: Medical Image Classification
@@ -81,6 +91,8 @@ Each section below references a self-contained Colab notebook implementing the c
 - Implemented full 3D CNN
 - Visualized slices and model performance
 - Colab: `ctscan_3d_classification.ipynb`
+
+**🎥Video**: [Walkthrough Video (YouTube/Drive)](https://your-video-link-here.com)
 
 ---
 

@@ -8,7 +8,7 @@
 
 **Tensorflow only from scratch not using high level api**: https://colab.research.google.com/drive/1Vnd_AlgKffTzfZa-5PAZj435nFqv34EA?usp=sharing
 
-**Tensorflow only with builtin layers**: https://colab.research.google.com/drive/1Vnd_AlgKffTzfZa-5PAZj435nFqv34EA?usp=sharing 
+**Tensorflow only with builtin layers**: https://colab.research.google.com/drive/12vTSpAyEH5TZqNEMu_A0iLJuLkS-v0wH?usp=sharing 
 
 **TensorFlow Functional High Level API**: https://colab.research.google.com/drive/1m-i5erBCvkzL6egZtKe67CtYWRh85OjQ?usp=sharing 
 

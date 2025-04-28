@@ -11,7 +11,7 @@ This repository contains implementations for fine-tuning various LLMs using **Un
 1. Fine-tuning **Llama 3, Mistral, Phi-3, and Qwen2** on different tasks.
 2. Explanation of input formats, datasets, and training strategies.
 
-    Colab Link: https://colab.research.google.com/drive/1VXbggWIpJpNIdvdt4xVsAUSM8DURVXCb?usp=sharing 
+    Colab Link: https://colab.research.google.com/drive/1m3RDm__Kaj0tquDgQbaZqszNuqB6lb3T?usp=sharing 
 
 ### 📚 **B: Continued Pretraining**
 - Using **Unsloth AI** to train a model in a new language.

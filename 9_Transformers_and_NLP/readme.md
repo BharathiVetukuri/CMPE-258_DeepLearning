@@ -46,13 +46,9 @@ All work has been implemented in separate, clean Colab notebooks for maximum cla
 
 ---
 
-## 📺 YouTube Walkthrough Videos
+## 📺 YouTube Walkthrough Video
 
-| Task | Video Link |
-|:--|:--|
-| Inference Walkthrough | [Watch on YouTube]() |
-| Fine-tuning Walkthrough | [Watch on YouTube](#) |
-| Build Transformer Walkthrough | [Watch on YouTube](#) |
+**Video Link**: 
 
 ---
 

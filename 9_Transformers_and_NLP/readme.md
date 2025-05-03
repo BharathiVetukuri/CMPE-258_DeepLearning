@@ -1,4 +1,4 @@
-# Deep Learning Assignment: Transformers and NLP
+# Assignment: Transformers and NLP
 
 ## 📚 Overview
 This project demonstrates three key tasks using Transformers for Natural Language Processing (NLP):
@@ -30,9 +30,9 @@ All work has been implemented in separate, clean Colab notebooks for maximum cla
 
 | Notebook | Description |
 |:--|:--|
-| `1_inference_pretrained.ipynb` | Inference with pretrained transformer using **KerasHub** and **Hugging Face** models (Gemma2 text generation + DistilBERT sentiment analysis). |
-| `2_finetuning_transformer.ipynb` | Fine-tuning pretrained models: (a) KerasHub TextClassifier on IMDB dataset, and (b) Hugging Face BERT-base-cased model on Rotten Tomatoes dataset. |
-| `3_build_transformer_scratch.ipynb` | Build and train a Transformer model manually from scratch on the IMDB reviews dataset. |
+| `9A_Inference_Pretrained_Classifier.ipynb` | Inference with pretrained transformer using **KerasHub** and **Hugging Face** models (Gemma2 text generation + DistilBERT sentiment analysis). |
+| `9B_Finetune_Transformer.ipynb` | Fine-tuning pretrained models: (a) KerasHub TextClassifier on IMDB dataset, and (b) Hugging Face BERT-base-cased model on Rotten Tomatoes dataset. |
+| `9C_Build_Transformer.ipynb` | Build and train a Transformer model manually from scratch on the IMDB reviews dataset. |
 
 ---
 
@@ -44,8 +44,6 @@ All work has been implemented in separate, clean Colab notebooks for maximum cla
 | Fine-tuning Pretrained Transformer | [Open Colab 2](https://colab.research.google.com/drive/1kEdNRacphCwyhHI5L7JAuw0nmI9nKZbh?usp=sharing) |
 | Build Transformer from Scratch | [Open Colab 3](https://colab.research.google.com/drive/11XOUNnwzsb1zSVmg3UaBoNyd5bGhWtMd?usp=sharing) |
 
-_(Replace `#` with your actual Colab URLs)_
-
 ---
 
 ## 📺 YouTube Walkthrough Videos
@@ -55,8 +53,6 @@ _(Replace `#` with your actual Colab URLs)_
 | Inference Walkthrough | [Watch on YouTube](https://youtu.be/C_VHwYqYHAU) |
 | Fine-tuning Walkthrough | [Watch on YouTube](#) |
 | Build Transformer Walkthrough | [Watch on YouTube](#) |
-
-_(Replace `#` with your actual YouTube URLs)_
 
 ---
 

@@ -40,9 +40,9 @@ All work has been implemented in separate, clean Colab notebooks for maximum cla
 
 | Task | Colab Link |
 |:--|:--|
-| Inference with Pretrained Transformer | [Open Colab 1](https://colab.research.google.com/drive/1SWCv5eLeWP_zJBqJlVd9-F0Lj6WZfYMa?usp=sharing) |
-| Fine-tuning Pretrained Transformer | [Open Colab 2](https://colab.research.google.com/drive/1kEdNRacphCwyhHI5L7JAuw0nmI9nKZbh?usp=sharing) |
-| Build Transformer from Scratch | [Open Colab 3](https://colab.research.google.com/drive/11XOUNnwzsb1zSVmg3UaBoNyd5bGhWtMd?usp=sharing) |
+| Inference with Pretrained Transformer | [Open Colab 1]() |
+| Fine-tuning Pretrained Transformer | [Open Colab 2]() |
+| Build Transformer from Scratch | [Open Colab 3]() |
 
 ---
 
@@ -50,7 +50,7 @@ All work has been implemented in separate, clean Colab notebooks for maximum cla
 
 | Task | Video Link |
 |:--|:--|
-| Inference Walkthrough | [Watch on YouTube](https://youtu.be/C_VHwYqYHAU) |
+| Inference Walkthrough | [Watch on YouTube]() |
 | Fine-tuning Walkthrough | [Watch on YouTube](#) |
 | Build Transformer Walkthrough | [Watch on YouTube](#) |
 

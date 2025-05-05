@@ -50,7 +50,7 @@ All work has been implemented in separate, clean Colab notebooks for maximum cla
 
 **Video Link**: https://youtu.be/C_VHwYqYHAU 
 
-[![TransformersandNLP](https://img.youtube.com/vi/C_VHwYqYHAU /0.jpg)](https://www.youtube.com/watch?v=C_VHwYqYHAU )
+[![TransformersandNLP](https://img.youtube.com/vi/C_VHwYqYHAU/0.jpg)](https://www.youtube.com/watch?v=C_VHwYqYHAU)
 
 ---
 
